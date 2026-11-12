@@ -1,0 +1,25 @@
+const { contextBridge, ipcRenderer } = require('electron');
+
+contextBridge.exposeInMainWorld('api', {
+  config: () => ipcRenderer.invoke('config'),
+  play: (opciones) => ipcRenderer.invoke('play', opciones),
+  cerrarSesion: () => ipcRenderer.invoke('cerrar-sesion'),
+  abrirMods: (sel) => ipcRenderer.invoke('abrir-mods', sel),
+  abrirCarpeta: (tipo, sel) => ipcRenderer.invoke('abrir-carpeta', { ...sel, tipo }),
+  backupMundos: (sel) => ipcRenderer.invoke('backup-mundos', sel),
+  abrirLog: (sel) => ipcRenderer.invoke('abrir-log', sel),
+  copiarReporte: (sel) => ipcRenderer.invoke('copiar-reporte', sel),
+  reparar: (sel) => ipcRenderer.invoke('reparar', sel),
+  estadoJava: (sel) => ipcRenderer.invoke('estado-java', sel),
+  buscarActualizacion: () => ipcRenderer.invoke('buscar-actualizacion'),
+  actualizar: () => ipcRenderer.invoke('actualizar'),
+  iniciarSesionMs: () => ipcRenderer.invoke('iniciar-sesion-ms'),
+  guardarCuenta: (datos) => ipcRenderer.invoke('guardar-cuenta', datos),
+  skin: (datos) => ipcRenderer.invoke('skin', datos),
+  elegirSkin: () => ipcRenderer.invoke('elegir-skin'),
+  aplicarSkin: (datos) => ipcRenderer.invoke('aplicar-skin', datos),
+  guardarRam: (key, valor) => ipcRenderer.invoke('guardar-ram', { key, valor }),
+  cosmeticos: () => ipcRenderer.invoke('cosmeticos'),
+  abrirEnlace: (url) => ipcRenderer.invoke('abrir-enlace', url),
+  on: (canal, fn) => ipcRenderer.on(canal, (_e, datos) => fn(datos)),
+});

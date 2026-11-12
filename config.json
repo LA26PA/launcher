@@ -1,0 +1,133 @@
+{
+  "nombre": "La 26",
+  "actualizaciones": { "repo": "LA26PA/launcher", "automatica": true },
+  "server": {
+    "host": "la26smp.seedloaf.gg",
+    "port": "25565"
+  },
+  "versiones": [
+    {
+      "id": "1.21.8",
+      "mc": "1.21.8",
+      "etiqueta": "La 26 SMP",
+      "java": 21,
+      "servidor": true,
+      "carpeta": "",
+      "loaders": {
+        "fabric": {
+          "manifestUrl": "https://raw.githubusercontent.com/LA26PA/mods/main/manifest.json",
+          "modrinth": [
+            "fabric-api",
+            "sodium",
+            "lithium",
+            "ferrite-core",
+            "modernfix",
+            "entityculling",
+            "immediatelyfast",
+            "fancymenu",
+            "drippy-loading-screen",
+            "cosmetica"
+          ],
+          "borrarExtras": true
+        }
+      }
+    },
+    {
+      "id": "1.21.11",
+      "mc": "1.21.11",
+      "etiqueta": "Optimizada",
+      "java": 21,
+      "servidor": false,
+      "loaders": {
+        "fabric": {
+          "modrinth": [
+            "fabric-api",
+            "sodium",
+            "lithium",
+            "ferrite-core",
+            "modernfix",
+            "entityculling",
+            "immediatelyfast",
+            "cosmetica",
+            "fancymenu"
+          ],
+          "borrarExtras": false
+        },
+        "forge": {
+          "modrinth": [
+            "embeddium",
+            "ferrite-core",
+            "modernfix",
+            "entityculling",
+            "immediatelyfast",
+            "cosmetica",
+            "fancymenu"
+          ],
+          "borrarExtras": false
+        }
+      }
+    },
+    {
+      "id": "26.3",
+      "mc": "26.3",
+      "etiqueta": "Optimizada",
+      "java": 25,
+      "servidor": false,
+      "loaders": {
+        "fabric": {
+          "modrinth": [
+            "fabric-api",
+            "sodium",
+            "lithium",
+            "ferrite-core",
+            "modernfix",
+            "entityculling",
+            "immediatelyfast",
+            "cosmetica",
+            "fancymenu"
+          ],
+          "borrarExtras": false
+        },
+        "forge": {
+          "modrinth": [
+            "embeddium",
+            "ferrite-core",
+            "modernfix",
+            "entityculling",
+            "immediatelyfast",
+            "cosmetica",
+            "fancymenu"
+          ],
+          "borrarExtras": false
+        }
+      }
+    },
+    {
+      "id": "1.7.10",
+      "mc": "1.7.10",
+      "etiqueta": "Clásica",
+      "java": 8,
+      "servidor": false,
+      "loaders": {
+        "forge": {
+          "modrinth": [],
+          "borrarExtras": false
+        }
+      }
+    }
+  ],
+  "loader": {
+    "tipo": "fabric",
+    "version": "latest"
+  },
+  "entrarDirecto": false,
+  "cerrarVentanaAlJugar": true,
+  "optimizacion": {
+    "opcionesIniciales": true
+  },
+  "jvmArgs": null,
+  "carpetaJuego": ".la26",
+  "ramPorDefecto": "auto",
+  "javaPath": null,
+  "remoto": "https://raw.githubusercontent.com/LA26PA/mods/main/launcher.json"
+}

@@ -1,0 +1,282 @@
+{
+  "generado": "2026-11-11T08:21:39.830Z",
+  "mods": [
+    {
+      "archivo": "CreativeCore_FABRIC_v2.14.7_mc1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/CreativeCore_FABRIC_v2.14.7_mc1.21.8.jar",
+      "sha1": "abc9806536ef3660d5f9a02ab36935c2c677675a"
+    },
+    {
+      "archivo": "ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar",
+      "sha1": "65c9c4c8ee0954de1bf3dbe9c5d73c304fee67f1"
+    },
+    {
+      "archivo": "HealthBars-v21.8.0-1.21.8-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/HealthBars-v21.8.0-1.21.8-Fabric.jar",
+      "sha1": "d1f7cc61f1f8002b5af98c29beea397828a2a223"
+    },
+    {
+      "archivo": "Incendium_1.21.x_v5.4.9.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/Incendium_1.21.x_v5.4.9.jar",
+      "sha1": "7baa7e3d512a99c330ebd709899ee384a2a014ed"
+    },
+    {
+      "archivo": "ItemPhysic_FABRIC_v1.8.11_mc1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/ItemPhysic_FABRIC_v1.8.11_mc1.21.8.jar",
+      "sha1": "ff79ffbe1287b815b79933536f465eebc72ca8be"
+    },
+    {
+      "archivo": "Ixeris-4.6.11+1.21.8-fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/Ixeris-4.6.11%2B1.21.8-fabric.jar",
+      "sha1": "51cc4fdcb811574945d689ea6f0d6f9e12f75f74"
+    },
+    {
+      "archivo": "PickUpNotifier-v21.8.1-1.21.8-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/PickUpNotifier-v21.8.1-1.21.8-Fabric.jar",
+      "sha1": "393e1516cbb08ab8aab929ec2f1b0214b4c64461"
+    },
+    {
+      "archivo": "PuzzlesLib-v21.8.9-1.21.8-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/PuzzlesLib-v21.8.9-1.21.8-Fabric.jar",
+      "sha1": "f6e29c790676eadd34ab218e6af8a791220b0bd6"
+    },
+    {
+      "archivo": "TerraBlender-fabric-1.21.8-6.0.0.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/TerraBlender-fabric-1.21.8-6.0.0.3.jar",
+      "sha1": "02e3783f89ee30eea6877cd78f59f646fd2b67ca"
+    },
+    {
+      "archivo": "VisualWorkbench-v21.8.1-1.21.8-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/VisualWorkbench-v21.8.1-1.21.8-Fabric.jar",
+      "sha1": "f9c16705090d99dcd8c70a462e68425493ac3db5"
+    },
+    {
+      "archivo": "balm-fabric-1.21.8-21.8.10.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/balm-fabric-1.21.8-21.8.10.jar",
+      "sha1": "b84ff12a91cbc515453190e1cb71029a26169b09"
+    },
+    {
+      "archivo": "bclib-21.800.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/bclib-21.800.4.jar",
+      "sha1": "4d30716ee6c8e23b9ebf2aad922351a8c60526f1"
+    },
+    {
+      "archivo": "better-end-21.800.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/better-end-21.800.4.jar",
+      "sha1": "6f5fc061dcb4d2b5dfe3611d84584dee6b977846"
+    },
+    {
+      "archivo": "biomasnuevosla26perroje.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/biomasnuevosla26perroje.jar",
+      "sha1": "144d6b3fde0c1ea2fa8ee96a8882e9b5852de9e8"
+    },
+    {
+      "archivo": "cardinal-components-api-7.0.0-beta.1.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/cardinal-components-api-7.0.0-beta.1.jar",
+      "sha1": "4b838397fcfb5324e260023a4f545ca2a7201656"
+    },
+    {
+      "archivo": "cloth-config-19.0.147-fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/cloth-config-19.0.147-fabric.jar",
+      "sha1": "d3bd78860580da556990726af3bed1169e69933e"
+    },
+    {
+      "archivo": "elytratrims-fabric-4.5.8+1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/elytratrims-fabric-4.5.8%2B1.21.8.jar",
+      "sha1": "ae55e17a945bc979eeaca386a2b6528fb7e18ce6"
+    },
+    {
+      "archivo": "endrem-fabric-1.21.6-6.1.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/endrem-fabric-1.21.6-6.1.4.jar",
+      "sha1": "acc2451c616e32606a5decf1e2fb1ee463e2c639"
+    },
+    {
+      "archivo": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0"
+    },
+    {
+      "archivo": "hardcorerevival-fabric-1.21.8-21.8.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/hardcorerevival-fabric-1.21.8-21.8.4.jar",
+      "sha1": "4674bbcb17512a1abde0e3aa9d6edbd60227eff7"
+    },
+    {
+      "archivo": "iris-fabric-1.9.6+mc1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/iris-fabric-1.9.6%2Bmc1.21.8.jar",
+      "sha1": "70fc97aa5eef2df2085a078ecb17d6bfce6756dd"
+    },
+    {
+      "archivo": "moreculling-fabric-1.21.8-1.4.0-beta.2.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/moreculling-fabric-1.21.8-1.4.0-beta.2.jar",
+      "sha1": "30123de3b8a09db46968d721c7892f5fb2b6d292"
+    },
+    {
+      "archivo": "placeholder-api-2.7.2+1.21.8.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/placeholder-api-2.7.2%2B1.21.8.jar",
+      "sha1": "f538eec8d6ec2e1af3c9e8ee73e4a4787abcd9cc"
+    },
+    {
+      "archivo": "skinrestorer-2.11.1+1.21.6-fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/skinrestorer-2.11.1%2B1.21.6-fabric.jar",
+      "sha1": "11d37838101632fcb1ac666780be2f77f560f49d"
+    },
+    {
+      "archivo": "tlc-fabric-1.21.5-2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/tlc-fabric-1.21.5-2.0.0.jar",
+      "sha1": "fe7ffe0080db783a98eb57235014dba4db5f3247"
+    },
+    {
+      "archivo": "tmadw-1.21.8-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/tmadw-1.21.8-1.1.0.jar",
+      "sha1": "edae1d112999c9b7fab2dcdb1d7fd930e4863f54"
+    },
+    {
+      "archivo": "travelersbackpack-fabric-1.21.8-10.8.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/travelersbackpack-fabric-1.21.8-10.8.4.jar",
+      "sha1": "51867aa93bdadafb50912b750fb12cefc60b66f7"
+    },
+    {
+      "archivo": "voicechat-fabric-1.21.8-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/voicechat-fabric-1.21.8-2.6.22.jar",
+      "sha1": "3d90ebf263aa9288f7be02b1828a074786513a14"
+    },
+    {
+      "archivo": "worldweaver-21.800.4.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/worldweaver-21.800.4.jar",
+      "sha1": "795bbb3347379ba8fa655d762b37aafd8a2876b5"
+    },
+    {
+      "archivo": "xaerominimap-fabric-1.21.8-26.6.0.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/xaerominimap-fabric-1.21.8-26.6.0.jar",
+      "sha1": "af10feefff98ea748f395edab5ace0ebec71a9e8"
+    },
+    {
+      "archivo": "xaeroworldmap-fabric-1.21.8-1.47.0.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/mods/xaeroworldmap-fabric-1.21.8-1.47.0.jar",
+      "sha1": "832ed9b64f52604de7a2661f70c0fc1f9813bccf"
+    }
+  ],
+  "archivos": [
+    {
+      "ruta": "config/drippyloadingscreen/options.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/drippyloadingscreen/options.txt",
+      "sha1": "3d171a6e718d989c19578c23199d9a0c22304e04",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/371af116-87c0-40c3-a2f0-21c4d84597f4.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/371af116-87c0-40c3-a2f0-21c4d84597f4.png",
+      "sha1": "162eb1f8f3a4a74303167815caac2141e959161e",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/background.jpg",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/background.jpg",
+      "sha1": "d2ca67dab90d6cc3e27511367156d9a2e860344c",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/jgar.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/jgar.png",
+      "sha1": "e14a65bc365f9e0c3f96dae30be1f2ff7b42d2cf",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/jugarverde.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/jugarverde.png",
+      "sha1": "dc4bd7e1b746fc722c04b816b4acf1d0a1f6547c",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/opcionesnaranja.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/opcionesnaranja.png",
+      "sha1": "d109d025714196911ad50625a81ba779b28c65f9",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/options.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/options.png",
+      "sha1": "6ff81e86023b2fc54e9277f4a77c4604ca4fb4fb",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/pantalladecarga.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/pantalladecarga.png",
+      "sha1": "96c9a41b540829a5fe02c971de9b4580e86938ea",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/salir.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/salir.png",
+      "sha1": "763b032405de6af081e074b195ffeb144a2b54b6",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/assets/salirrojo.png",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/assets/salirrojo.png",
+      "sha1": "c0e404a90cb21970e63583db1a2f01f6cf51efd3",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "ac04be8fb73c55de27fa60bf12e9fcca8957d16c",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/customizablemenus.txt",
+      "sha1": "b18d657e508c212101028b754ad381eb6ececeb6",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "df97b292fab13dc84caccbf22bd5af2e5e255b30",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "8166c2652b72438cb1a4084bace1205722fcea75",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/options.txt",
+      "sha1": "d382b246d3fe4a29cb50321e953e66b81e2ff34c",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/ui_themes/dark.json",
+      "sha1": "6c4a7a9a509c3b81c62a497c4cb53a3eddf61219",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/ui_themes/light.json",
+      "sha1": "fb42def9e33a2792c19002a717318ec733283e8d",
+      "soloSiNoExiste": false
+    },
+    {
+      "ruta": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "soloSiNoExiste": false
+    }
+  ]
+}

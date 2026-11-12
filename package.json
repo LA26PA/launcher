@@ -1,0 +1,47 @@
+{
+  "name": "la26-launcher",
+  "productName": "La 26 Launcher",
+  "version": "1.0.0",
+  "description": "Launcher del server La 26",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
+  },
+  "dependencies": {
+    "minecraft-launcher-core": "^3.18.2",
+    "msmc": "^5.0.5"
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.la26.launcher",
+    "productName": "La 26 Launcher",
+    "files": [
+      "main.js",
+      "preload.js",
+      "mods.js",
+      "loaders.js",
+      "java.js",
+      "actualizador.js",
+      "herramientas.js",
+      "rendimiento.js",
+      "index.html",
+      "actualizando.html",
+      "config.json"
+    ],
+    "win": {
+      "target": "portable",
+      "icon": "icon.ico"
+    },
+    "portable": {
+      "artifactName": "La26-Launcher.exe"
+    }
+  },
+  "allowScripts": {
+    "electron@33.4.11": true
+  },
+  "author": "La 26"
+}
